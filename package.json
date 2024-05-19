@@ -1,0 +1,11 @@
+{
+  "name": "myownwebsite2.0",
+  "version": "1.0.0",
+  "description": "just trying to build a website in react without properly learning javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xdcoder",
+  "license": "ISC"
+}
